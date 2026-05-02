@@ -18,15 +18,15 @@ To build a robust model, we started with a high-quality dataset. We performed ex
 ### Data Inspection
 Random sample grids were generated to visually inspect the images. This confirmed that the features for fire and smoke were visually distinct and well-represented.
 
-<p align="center">
-  <img src="assets/random_samples.png" alt="Random Samples" width="100%" />
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/d885a4c7-9ee9-4a42-b7d5-d1b401ddfd45" alt="Random Samples" width="100%" />
 </p>
 
 ### Class Distribution
 We plotted bar and pie charts to confirm that the dataset is balanced across all three classes. A balanced dataset is crucial as it prevents the model from developing a bias toward the majority class.
 
 <p align="center">
-  <img src="assets/class_distribution_pie.png" alt="Class Distribution" width="60%" />
+  <img src="https://github.com/user-attachments/assets/680572d8-85a3-4ab9-93b7-137b748b8e03" alt="Class Distribution" width="60%" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ Training was highly optimized using Keras callbacks:
 
 ### Training Accuracy
 <p align="center">
-  <img src="assets/training_accuracy.png" alt="Training Accuracy" width="80%" />
+  <img src="https://github.com/user-attachments/assets/d94453cc-b033-402f-b648-ea02c6d7834a" alt="Training Accuracy" width="80%" />
 </p>
 
 ---
@@ -75,22 +75,22 @@ Below are some screenshots of the Streamlit application and its prediction resul
 
 #### App Homepage
 <p align="center">
-  <img src="assets/home.png" alt="Home Screen" width="80%" />
+  <img src="https://github.com/user-attachments/assets/c93ab4e0-c72a-431d-8bee-1cd6d45951e3" alt="Home Screen" width="80%" />
 </p>
 
 #### Safe (Non-Fire) Detection
-<p align="center">
-  <img src="assets/safe.png" alt="Safe Detection" width="80%" />
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/b0f615a7-8377-4832-8ae1-cc912448c436" alt="Safe Detection" width="80%" />
 </p>
 
 #### Smoke Detection
-<p align="center">
-  <img src="assets/smoke.png" alt="Smoke Detection" width="80%" />
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/f0d442b0-8cf2-45f9-a5fa-043e601270e1" alt="Smoke Detection" width="80%" />
 </p>
 
 #### Fire Detection
 <p align="center">
-  <img src="assets/fire.png" alt="Fire Detection" width="80%" />
+  <img src="https://github.com/user-attachments/assets/3d1b22c1-679b-4ce1-b46f-f110479a6969" alt="Fire Detection" width="80%" />
 </p>
 
 ---
