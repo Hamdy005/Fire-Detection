@@ -51,7 +51,7 @@ Training was highly optimized using Keras callbacks:
 
 ### Training Accuracy
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d94453cc-b033-402f-b648-ea02c6d7834a" alt="Training Accuracy" width="80%" />
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/63fb6fca-58a8-4a59-a42f-12c92058ddd0" />
 </p>
 
 ---
@@ -121,4 +121,4 @@ streamlit run app/app.py
 ```
 
 ### ☁️ Hosted Version
-👉 [Try the Live App Here (https://dummy-streamlit-app-link.com)](#)
+👉 [Live Demo](https://raij-fire-detection.streamlit.app/)
