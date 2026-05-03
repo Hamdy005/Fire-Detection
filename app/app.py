@@ -122,7 +122,7 @@ if uploaded_file is not None:
             if pred_idx == 1: # fire
                 st.markdown('<div class="alert-danger">🚨 DANGER: Fire Detected!</div>', unsafe_allow_html=True)
             elif pred_idx == 0: # smoke
-                st.markdown('<div class="alert-warning">🌫️ NO FIRE: Smoke Detected.</div>', unsafe_allow_html=True)
+                st.markdown('<div class="alert-warning">⚠️ Warning: Smoke Detected.</div>', unsafe_allow_html=True)
             else: # non fire
                 st.markdown('<div class="alert-safe">🛡️ NO FIRE: No Fire Detected.</div>', unsafe_allow_html=True)
         except Exception as e:
