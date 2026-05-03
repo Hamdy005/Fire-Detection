@@ -85,7 +85,7 @@ Below are some screenshots of the Streamlit application and its prediction resul
 
 #### Smoke Detection
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/f0d442b0-8cf2-45f9-a5fa-043e601270e1" alt="Smoke Detection" width="80%" />
+  <img src="https://github.com/user-attachments/assets/cdb4a4b9-a3de-4ded-949b-1a38ee59e6fb" alt="Smoke Detection" width="80%" />
 </p>
 
 #### Fire Detection
